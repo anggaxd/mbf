@@ -30,5 +30,5 @@ $ git clone https://github.com/anggaxd/mbf
 ```
 $ cd mbf
 $ pip2 install requests bs4
-$ python2 mbf.py
+$ python3 mbf.py
 ```
